@@ -1,4 +1,4 @@
-module github.com/paradoxpacer/zathuraconf
+module github.com/ParadoxPacer/zathuraconf
 
 go 1.16
 
