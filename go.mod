@@ -1,4 +1,4 @@
-module github.com/gennaro-tedesco/zathuraconf
+module github.com/paradoxpacer/zathuraconf
 
 go 1.16
 
