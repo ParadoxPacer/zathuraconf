@@ -26,7 +26,7 @@ set guioptions vc
 set scroll-step 40
 
 # font size
-set font "Fira Code 15"
+set font "JetBrainsMono Nerd Font 15"
 
 # clipboard configurations
 set selection-clipboard clipboard
@@ -36,6 +36,11 @@ set selection-clipboard clipboard
 unmap f
 map f toggle_fullscreen
 map [fullscreen] f toggle_fullscreen
+map R reload
+
+set statusbar-basename true
+set window-title-basename true
+set selection-notification false
 
 `
 }
